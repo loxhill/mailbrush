@@ -1,3 +1,3 @@
-<p align="center"><img src="https://raw.githubusercontent.com/loxhill/mailbrush/da09a3f76f1afbf1afc3c02eee80da3bc1037d9a/logo.svg" width="400" alt="Mailbrush Logo"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/loxhill/mailbrush/15e51274f47664b4f90e1520a1d4daba8dd21ba3/logo.svg" alt="Mailbrush Logo"></p>
 
 > **Notice**: Mailbrush is currently a work in progress, it is not recommended that you use this package in production.
